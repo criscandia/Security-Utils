@@ -3,7 +3,7 @@ Security Firewall
 
 ## Synopsis
 
-This are a pack of security rules for iptables for unix based systems 
+This are a pack of security rules for iptables for unix based systems and for modem or adsl connections
 
 ## Motivation
 
