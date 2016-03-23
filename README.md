@@ -7,7 +7,7 @@ This are a pack of security tools for unix based systems
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+For begginers or experienced users, this script will be helpfull to bring security on your system.
 
 ## Installation
 
